@@ -1,5 +1,14 @@
-# TVDI_Project_LTC
-TVDI專案-長照(LTC, aka Long-Term Care)
+## TVDI_Project_LTC
+### 長照(LTC, aka Long-Term Care)
 
 * 小組成員：陳明勝、孫義翔、林重仰
 * 專案主題：研究社區式長照機構，歸納並展示各地區的供給量與相關資訊
+
+### 範疇:
+* 區域：先做六都，有餘裕再做到全台
+* 資料來源：OpenData
+* 基本資料：老人人口數、照服員數量、床位數量、機構數量及分布資訊(Google地圖)
+* 分工
+  ** 資料收集
+  ** 程式設計
+  ** 圖表設計
