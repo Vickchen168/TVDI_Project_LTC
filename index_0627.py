@@ -4,7 +4,7 @@ from tkinter import ttk
 from tkinter.font import Font
 import csv
 from functools import partial
-import tkintermapveiw as tkmap
+import tkintermapview as tkmap
 
 LOCATIONIQ_API_KEY = "pk.b0b1f31b5d46487158d1b472af1faaba"
 
