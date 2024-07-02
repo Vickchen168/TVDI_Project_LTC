@@ -1,0 +1,21 @@
+.box {
+    padding: 80px;
+    text-align: center;
+    font-size: 150%;
+}
+
+.box img {
+    border: 5px solid #FFFFFF;
+    border-radius: 30px;
+    box-shadow: 0 0 20px #ffffff,0 0 40px #ffffff,0 0 60px #ffffff,0 0 80px #ffffff, 0 0 100px #ffffff, 0 0 150px #ffffff, 0 0 200px #ffffff;
+}
+
+.box p{
+    padding: 20px;
+}
+
+.container .content {
+    color: #222222;
+    padding: 200px 0;
+    flex-wrap: wrap;
+}

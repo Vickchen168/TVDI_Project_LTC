@@ -1,0 +1,21 @@
+
+.content{
+    background-color: #f2eedb76;
+    padding: 30px 20px;
+    color: #333;
+    display: flex;
+}
+.content .aaa{
+    padding: 80px 40px;
+}
+.content h3{
+    color: blue;
+    padding-top:20px;
+}
+.content p {
+    margin-top: 15px;
+}
+.content img {
+    float: right;
+    margin: 5px 25px;
+}

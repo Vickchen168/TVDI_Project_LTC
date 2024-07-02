@@ -1,0 +1,165 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(../../share/background.jpg);
+    /* background-color: #e7a83a; */
+    
+}
+.container{
+    background-color: #f2eedb76;
+    /* background-color: #58ea4e; */
+    width: 1200px;
+    margin: 0 auto;
+    
+
+}
+
+.header{
+    /* background-color: #284ceec8; */
+    height: 170px;
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+
+.averia-sans {
+    font-family: "Averia Sans Libre", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.header .box1{
+    display: flex;
+    width: calc(80%/2);
+    justify-content: space-between;
+}
+
+.header .ooo{
+    height: 60px;
+    width: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.header .xxx{
+    /* background-color: #f05353; */
+    font-size: 30px;
+    color: bisque;
+    text-shadow: #b05204 2px 2px 2px;
+    font-family: 'Averia Sans Libre';
+    margin-top: 70px;
+
+    
+    
+}
+.header ul{
+    /* background-color: #4774e6; */
+    display: flex;
+    padding-right: 20px;
+    
+    
+    
+    
+}
+.header li{
+    list-style: none;
+    align-content: end;
+}
+
+.titan-one-regular {
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.header li a{
+    display: block;
+    /* border: #b05104 2px solid; */
+    background-color: rgba(96, 48, 4, 0.484);
+    color: rgb(244, 242, 240);
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-family: "Titan One";
+    border-radius: 30px;
+
+}
+
+li a span {
+    vertical-align: middle;
+    margin-right: 5px;
+
+}
+
+li a:hover span {
+    color: #b05204;
+}
+
+.header li a:hover{
+    background-color: rgb(177, 110, 47);
+    font-style: oblique;
+}
+
+.nav{
+    background-image: url(../../share/banner00.png);
+    /* width: 1200px; */
+    background-color: #f2eedb76;
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    display: flex;
+
+}
+.nav ul{
+    display: flex;
+    padding-right: 20px;
+}
+.nav li{
+    list-style: none;
+    align-content: end;
+}
+.nav li a{
+    display: block;
+    /* background-color: darkblue; */
+    color: rgb(255, 243, 240);
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 10px;
+    text-decoration: none;
+    font-family: "Titan One";
+    border-radius: 30px;
+}
+.nav li a:hover{
+    background-color: rgba(96, 48, 4, 0.774);
+    color: #dc7928;
+}
+
+.content{
+    background-color: #f2eedb76;
+    padding: 30px 20px;
+    color: #333;
+    display: flex;
+}
+.content .aaa{
+    padding: 80px 40px;
+}
+.content p {
+    margin-top: 15px;
+}
+.content img {
+    float: right;
+    margin: 5px 25px;
+}
+
+.footer{
+        background-color: #333;
+        color: #FFF;
+        text-align: center;
+        padding: 10px;
+}
+.footer h3{
+    margin-bottom: 5px;
+}

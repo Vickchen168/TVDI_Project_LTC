@@ -1,0 +1,31 @@
+.content{
+    background-color: #f2eedb76;
+    padding: 30px 20px;
+    color: #333;
+    
+}
+.content h2{
+    margin: 40px 0px 0px 60px;
+    font-size: 30px;
+}
+.content .aaa{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.content .bbb{
+    float: left;
+    width: 450px;
+    color: rgb(220, 98, 98);
+}
+.content p{
+    margin: 20px 10px;
+}
+.content h3 {
+    margin-top: 20px;
+    color: rgb(243, 59, 90)
+}
+.content img {
+    float: right;
+    
+}

@@ -1,0 +1,21 @@
+.content{
+    background-color: #f2eedb76;
+    padding: 30px 10px;
+    color: #333;
+}
+.content h2{
+    margin: 20px 0px 10px 60px;
+    font-size: 30px;
+}
+.content p{
+    font-size: 20px;
+    padding: 20px 60px 0px 60px;
+}
+.content img {
+    height: 300px;
+    width: 350px;
+    flex-shrink: auto ;
+    margin: 5px 5px;
+    border-radius: 50px 0px;
+    box-shadow: #333 2px 2px 2px;
+}
